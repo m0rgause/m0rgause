@@ -5,5 +5,5 @@
       the concept of "right" means no more than that.<br>
     </samp>
   </p>
-<p align="right"><b><samp>」</samp></b></p>
+<p align="right"><b><samp> 」</samp></b></p>
 
