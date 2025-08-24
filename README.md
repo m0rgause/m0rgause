@@ -1,18 +1,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>hey there, i'm Ahmad Baihaki Nur 👋</h1>
-  [cite_start]<p>a <strong>Fullstack Developer</strong> [cite: 2] [cite_start]from <strong>Jakarta, Indonesia</strong> [cite: 3] 🇮🇩</p>
-  [cite_start]<p>Transforming innovative ideas into reality through clean code and intuitive interfaces. [cite: 5, 6]</p>
+  <p>a <strong>Fullstack Developer</strong> from <strong>Jakarta, Indonesia</strong> 🇮🇩</p>
+  <p>Transforming innovative ideas into reality through clean code and intuitive interfaces.</p>
 </div>
 
 <br>
 
 ## 👾 a little bit about me...
-- [cite_start]🎓 I'm a final-year Computer Science student at **Mercu Buana University**. [cite: 4, 43]
-- [cite_start]✨ Currently building cool stuff with **React.js, Laravel, and Python**. [cite: 8]
-- [cite_start]🧠 Also diving deep into mobile development with **Flutter** and exploring cloud platforms like **GCP & Firebase**. [cite: 12, 23, 71]
-- [cite_start]💬 Ask me about anything related to web/mobile app development, database architecture [cite: 36][cite_start], or system administration[cite: 76].
-- [cite_start]⚡ Fun fact: I was the **1st Runner Up in an IT Network Systems Administration competition**! [cite: 88]
+- 🎓 I'm an **Informatics Engineering** graduate from **Mercu Buana University**.
+- ✨ Currently building cool stuff with **React.js, Laravel, and Python**.
+- 🧠 Also diving deep into mobile development with **Flutter** and exploring cloud platforms like **GCP & Firebase**.
+- 💬 Ask me about anything related to web/mobile app development, database architecture, or system administration.
+- ⚡ Fun fact: I was the **1st Runner Up in an IT Network Systems Administration competition**!
 
 <br>
 
